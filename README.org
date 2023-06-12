@@ -1,0 +1,10 @@
+* define-json-expander
+
+Common Lisp macros for creating simple interfaces between CLOS and JSON
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ejbs/define-json-expander.git   |
+| commit  | dec7bf1  |
+| systems | define-json-expander |
+|---------+-------------------------------------------|
+
