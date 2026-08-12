@@ -8,4 +8,4 @@ Common Lisp macros for creating simple interfaces between CLOS and JSON
 | systems | define-json-expander |
 |---------+-------------------------------------------|
 
- 
+  
